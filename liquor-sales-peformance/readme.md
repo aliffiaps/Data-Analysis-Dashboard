@@ -10,7 +10,7 @@ Industri minuman fermentasi (liquor) memiliki pola permintaan yang dinamis serta
 - Total Cost
 
 ## Dashboard
-![image alt](https://github.com/aliffiaps/Data-Analysis-Dashboard/blob/main/liquor-sales-peformance/dashboard_sales_performance.png)
+![image alt](https://github.com/aliffiaps/Data-Analysis-Dashboard/blob/main/liquor-sales-peformance/dashboard_sales.png)
 
 <a href="https://datastudio.google.com/u/0/reporting/78ebd979-3b2a-4f4d-b035-dfdca2bf773a/page/sk0wF">View Dashboard</a>
 
