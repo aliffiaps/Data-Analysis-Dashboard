@@ -1,4 +1,4 @@
-## 🍷 Liquor Sales Analysis
+# 🍷 Liquor Sales Analysis
 **Dataset:** <a href="https://github.com/aliffiaps/Data-Analysis-Dashboard/blob/main/liquor-sales-peformance/liquor_dataset.csv">Dataset</a>
 
 ## Project Objective
